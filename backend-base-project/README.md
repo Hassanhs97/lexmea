@@ -2,7 +2,7 @@
 
 ## Back End of project
 
-composer install
+- composer install
 
-php artisan serve
+- php artisan serve
 
